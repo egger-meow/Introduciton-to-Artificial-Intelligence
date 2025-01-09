@@ -1,1 +1,1 @@
-The course from NYCU cs
+The course from NYCU CS
